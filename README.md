@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m currently navigating my third year in B.Tech, specializing in (CSE)<br>I’m eager to collaborate with a skilled software development team to build something impactful.<br>Right now, I’m diving into Flutter and Django to broaden my tech stack.<br>As a backend enthusiast, I’m all about building robust and scalable systems.
+ ###I'm Ram, I’m currently persuing my third year in B.Tech, specializing in (CSE). I’m eager to collaborate with a skilled software development team to build something impactful.🚀
 
 
 ## 🌐 Socials:
