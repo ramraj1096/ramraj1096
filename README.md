@@ -1,5 +1,5 @@
 # 💫 About Me:
- ###I'm Ram, I’m currently persuing my third year in B.Tech, specializing in (CSE). I’m eager to collaborate with a skilled software development team to build something impactful.🚀
+ ##I'm Ram, I’m currently persuing my third year in B.Tech, specializing in (CSE). I’m eager to collaborate with a skilled software development team to build something impactful.🚀
 
 
 ## 🌐 Socials:
