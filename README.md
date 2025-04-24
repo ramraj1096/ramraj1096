@@ -105,7 +105,7 @@ A recruitment-ready job portal designed for colleges & startups
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ramraj1096&show_icons=true&theme=radical" alt="Rama Raju's GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RamaRajuB&theme=radical" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ramraj1096&theme=radical" alt="GitHub Streak" width="48%" />
 </p>
 
 <p align="center">
