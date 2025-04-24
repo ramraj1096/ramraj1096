@@ -1,63 +1,107 @@
-# 💫 About Me:
-Hi there! I'm **Ram**, a third-year B.Tech student specializing in **Computer Science Engineering (CSE)**. I'm passionate about backend systems, microservices, and crafting efficient, scalable solutions.  
-I'm always excited to collaborate with developers on impactful projects! 🚀
+# 👋 Hey there! I'm Rama Raju
+
+🚀 Full Stack Developer | Backend Wizard | AI Explorer | Open Source Enthusiast
 
 ---
 
-## 🌐 Connect with Me
+## 👨‍💻 About Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rama-raju-b-8a19a62bb)  
-
----
-
-## 💻 Tech Stack
-
-### 🚀 Languages & Frameworks
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
-### 🌐 Backend & Web Frameworks
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-
-### 🛢️ Databases
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### ⚙️ Deployment & Dev Tools
-![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+🎓 3rd Year CSE Student @ Mohan Babu University (CGPA: 9.1)  
+💡 Lazy but smart problem solver who loves backend magic and building scalable systems  
+💻 MERN, Spring Boot, FastAPI & NestJS developer with a flair for clean architecture  
+📊 Currently diving into: AI-powered trading systems, Docker, and System Design  
+🧠 Solved 650+ DSA problems on LeetCode 
+🤝 Always up for building real-world, impactful projects with passionate devs
 
 ---
 
-## 📊 GitHub Stats
+## 🌟 Highlight Projects
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ramraj1096&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ramraj1096&theme=dark&hide_border=false" alt="GitHub Streak" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramraj1096&theme=dark&hide_border=false&layout=compact&langs_count=8" alt="Top Languages" />
-</div>
+### 🎓 [Campus Bridge – LMS + Coding Platform](https://campusbridge-student.vercel.app/)
+A full-fledged academic LMS and coding skill platform  
+🔹 Tech Stack: MERN | WebSockets | AI Tools  
+🔹 Features:
+- Admin: Course, faculty, and job role management  
+- Faculty: Assignments, lecture uploads, coding problem editor  
+- Students:  
+  ✅ Enroll in content  
+  ✅ Practice coding with live compiler  
+  ✅ AI Resume Generator + Error Debug Chatbot  
+  ✅ OTP login and job application tracker  
 
 ---
 
-### ✍️ Random Dev Quote
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+### 📈 [TradingJournalPro](https://tradingjournalpro.vercel.app/)
+Your personal trading companion — analyze, log, and reflect on trades  
+🔹 Stack: React + Shadcn + Spring Boot + MongoDB  
+🔹 Features:  
+✅ Trade tracking  
+📈 Chart-based analysis  
+🤖 AI recommendation module (WIP)  
+🔐 Secure auth & personalized dashboard
 
 ---
 
-### 🧭 Profile Views
-[![](https://visitcount.itsvg.in/api?id=ramraj1096&label=Profile%20Views&color=6&icon=5&pretty=false)](https://visitcount.itsvg.in)
+### 🌐 [Talent Bridge](https://talentbridge01.vercel.app/)
+A recruitment-ready job portal designed for colleges & startups  
+🔹 Stack: React + Node.js + MongoDB  
+🔹 Features:
+- Role-based login: Students / Recruiters / Admins  
+- Resume uploads, job posting & application system  
+- Admin control panel with job & user tracking  
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
 
+## 🛠️ Tech Stack & Tools
+
+**Languages**  
+JavaScript • TypeScript • Java • Python • C  
+
+**Frontend**  
+React • TailwindCSS • Shadcn • HTML5 • CSS3  
+
+**Backend & APIs**  
+Node.js • Express.js • FastAPI • NestJS • Spring Boot • JWT • REST  
+
+**Databases**  
+MongoDB • MySQL • PostgreSQL • Redis  
+
+**DevOps & Deployment**  
+Docker • AWS • Railway • Vercel  
+
+**Tools**  
+Git • GitHub • Postman • VS Code • Linux • Netlify  
+
+**Libraries & Integrations**  
+Razorpay • Socket.IO • Zustand • Framer Motion • Judge0 API  
+
+**AI Enhancements**  
+OpenAI • Chart Analysis Bots • AI Resume Generator
+
+---
+
+## 🏆 Achievements
+
+- 🛠 Built multiple full-stack platforms used by real users and in hackathons  
+- 🤖 Leading personal AI projects like TradingJournalPro’s recommendation engine  
+- 📜 Certifications:
+  - Java + DSA – Apna College  
+  - MERN Stack – Apna College  
+  - Spring Boot – Udemy  
+
+---
+
+## 📬 Let's Connect
+
+📫 Email: ramarajuboya1096@gmail.com  
+🔗 LinkedIn: [Rama Raju B](https://www.linkedin.com/in/rama-raju-b-8a19a62bb/)  
+🌐 Portfolio: *Coming Soon...*  
+
+---
+
+## 🌟 Personal Philosophy
+
+> “Build with purpose. Learn with curiosity. Execute with clarity.”  
+> — Rama Raju
+
+---
