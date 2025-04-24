@@ -54,29 +54,29 @@ A recruitment-ready job portal designed for colleges & startups
 
 ## 🛠️ Tech Stack & Tools
 
-**Languages**  
-JavaScript • TypeScript • Java • Python • C  
+### 💻 Languages  
+🟨 JavaScript | 🔷 TypeScript | ☕ Java | 🐍 Python | 🧠 C
 
-**Frontend**  
-React • TailwindCSS • Shadcn • HTML5 • CSS3  
+### 🌐 Frontend  
+⚛️ React | 🎨 TailwindCSS | ✨ Shadcn | 🌍 HTML5 | 🖌️ CSS3
 
-**Backend & APIs**  
-Node.js • Express.js • FastAPI • NestJS • Spring Boot • JWT • REST  
+### 🧠 Backend & APIs  
+🟩 Node.js | 🚂 Express.js | 🚀 FastAPI | 📦 NestJS | 🌱 Spring Boot | 🔐 JWT | 📡 REST APIs
 
-**Databases**  
-MongoDB • MySQL • PostgreSQL • Redis  
+### 🗄️ Databases  
+🍃 MongoDB | 🐬 MySQL | 🐘 PostgreSQL | 🧠 Redis
 
-**DevOps & Deployment**  
-Docker • AWS • Railway • Vercel  
+### ☁️ DevOps & Deployment  
+🐳 Docker | ☁️ AWS | 🚆 Railway | ▲ Vercel
 
-**Tools**  
-Git • GitHub • Postman • VS Code • Linux • Netlify  
+### 🔧 Tools  
+🐙 Git + GitHub | 📮 Postman | 🧑‍💻 VS Code | 🐧 Linux | 🌐 Netlify
 
-**Libraries & Integrations**  
-Razorpay • Socket.IO • Zustand • Framer Motion • Judge0 API  
+### 📦 Libraries & Integrations  
+💳 Razorpay | 📡 Socket.IO | 🧠 Zustand | 🎞️ Framer Motion | 🧪 Judge0 API
 
-**AI Enhancements**  
-OpenAI • Chart Analysis Bots • AI Resume Generator
+### 🤖 AI & Enhancements  
+🧠 OpenAI (GPT) | 📊 Chart Analysis Bots | 📝 AI Resume Generator
 
 ---
 
