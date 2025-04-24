@@ -99,6 +99,21 @@ A recruitment-ready job portal designed for colleges & startups
 
 ---
 
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RamaRajuB&show_icons=true&theme=radical" alt="Rama Raju's GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RamaRajuB&theme=radical" alt="GitHub Streak" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RamaRajuB&layout=compact&theme=radical" alt="Top Languages" width="40%" />
+</p>
+
+---
+
 ## 🌟 Personal Philosophy
 
 > “Build with purpose. Learn with curiosity. Execute with clarity.”  
