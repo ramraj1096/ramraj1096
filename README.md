@@ -109,7 +109,7 @@ A recruitment-ready job portal designed for colleges & startups
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RamaRajuB&layout=compact&theme=radical" alt="Top Languages" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramraj1096&layout=compact&theme=radical" alt="Top Languages" width="40%" />
 </p>
 
 ---
