@@ -1,6 +1,6 @@
 # 👋 Hey there! I'm Rama Raju
 
-🚀 Full Stack Developer | Backend Wizard | AI Explorer | Open Source Enthusiast
+🚀 Full Stack Developer | AI Explorer | Open Source Enthusiast
 
 ---
 
