@@ -42,7 +42,7 @@ Your personal trading companion — analyze, log, and reflect on trades
 
 ---
 
-### 🌐 [Talent Bridge](https://talentbridge01.vercel.app/)
+### 🌐 [Talent Hire](https://talenthire.vercel.app/)
 A recruitment-ready job portal designed for colleges & startups  
 🔹 Stack: React + Node.js + MongoDB  
 🔹 Features:
